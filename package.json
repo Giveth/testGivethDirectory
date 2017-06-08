@@ -1,0 +1,14 @@
+{
+  "name": "testgivethdirectory",
+  "version": "0.0.1",
+  "description": "Test Giveth Directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordi Baylina",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "givethdirectory": "^0.2.1"
+  }
+}
